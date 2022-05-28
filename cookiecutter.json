@@ -1,5 +1,6 @@
 {
     "project" : "project",
     "author" : "my name",
-    "project_slug" : "{{cookiecutter.project.lower().replace(' ', '_')}}"
+    "project_slug" : "{{cookiecutter.project.lower().replace(' ', '_')}}",
+    "license" : "['MIT', 'BSD']"
 }
