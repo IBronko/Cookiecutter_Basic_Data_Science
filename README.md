@@ -11,7 +11,7 @@ Automate repetition away...
 ## Steps
 
 1. Navigate to desired folder on your machine and generate your project structure from GitHub project template: 
-`$ cookiecutter https://github.com/IBronko/Cookiecutters_Basic_Data_Science.git`
+`$ cookiecutter https://github.com/IBronko/Cookiecutter_Basic_Data_Science.git`
 
 To generate a project from a local cookiecutter template type and follow the displayed prompts:
 `$ cookiecutter .`
