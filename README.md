@@ -13,7 +13,9 @@ Automate repetition away...
 1. Navigate to desired folder on your machine and generate your project structure from GitHub project template: 
 `$ cookiecutter https://github.com/IBronko/Cookiecutters_Basic_Data_Science.git`
 
-2. Create virtual environment for your project and install requirements of template from included pipfile: 
+2. Adjust Pipfile if necessary (include or exclude packages)
+
+3. Create virtual environment for your project and install requirements of template from included pipfile: 
 `$ pipenv install`
 
 
