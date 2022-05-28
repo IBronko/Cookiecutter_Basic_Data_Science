@@ -2,6 +2,10 @@
 
 Automate repetition away... 
 
+## Quick tutorial
+
+💡[Calmcode](https://calmcode.io/cookiecutter/the-problem.html)
+
 ## Prerequisites
 
 - installation of [Python3](https://www.python.org) on your machine  
