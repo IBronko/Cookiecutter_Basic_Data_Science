@@ -1,4 +1,4 @@
-# Cookiecutters 🍪
+# Cookiecutter 🍪
 
 Automate repetition away... 
 
