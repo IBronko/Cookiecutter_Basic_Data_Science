@@ -5,8 +5,8 @@ Automate repetition away...
 ## Prerequisites
 
 - installation of [Python3](https://www.python.org) on your machine  
-- installation [cookiecutter](https://cookiecutter.readthedocs.io/en/2.0.2/installation.html) on your machine
-- installation [pipenv](https://docs.pipenv.org) on your machine
+- installation of [cookiecutter](https://cookiecutter.readthedocs.io/en/2.0.2/installation.html) on your machine
+- installation of [pipenv](https://docs.pipenv.org) on your machine
 
 ## Steps
 
