@@ -1,9 +1,12 @@
 # Cookiecutter 🍪 for a basic data science project
 
 I was tired of manually seeting up a virtual environment and installing the same basic packages/libraries for each (little) project.
-Then I stumbled over this tool called "Cookiecutter" that helps me to automate repetition away... 
+Then I stumbled over this tool called "Cookiecutter" that helps me to automate repetition away...
 
-## Quick tutorial
+This template can be used in combination with pipenv to set everything up in minutes with basically 2-3 commands.
+The [pipfile](https://github.com/IBronko/Cookiecutter_Basic_Data_Science/blob/3a6f38ce671009175e7ac73a04905a863c5b8e99/%7B%7Bcookiecutter.project_slug%7D%7D/Pipfile) contains the dependencies and can be viewed and adjusted as necessary.
+
+## Quick tutorial for Cookiecutter
 
 💡[Calmcode](https://calmcode.io/cookiecutter/the-problem.html)
 
