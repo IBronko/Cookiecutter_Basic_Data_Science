@@ -13,7 +13,7 @@ Automate repetition away...
 1. Navigate to desired folder on your machine and generate your project structure from GitHub project template: 
 `$ cookiecutter https://github.com/IBronko/Cookiecutters_Basic_Data_Science.git`
 
-To generate a project from a local cookiecutter template type:
+To generate a project from a local cookiecutter template type and follow the displayed prompts:
 `$ cookiecutter .`
 
 2. Adjust Pipfile if necessary (include or exclude packages)
