@@ -11,7 +11,7 @@ Automate repetition away...
 ## Steps
 
 1. Create virtual environment for your project and activate (e.g. with pipenv)
-2. Generate your project structure from GitHub project template: `$ cookiecutter https://github.com/IBronko/Cookiecutters/tree/main/Streamlit.git`
+2. Generate your project structure from GitHub project template: `$ cookiecutter https://github.com/IBronko/Cookiecutters_Basic_Data_Science.git`
 3. Install requirements of template from included pipfile: `$ pipenv install`
 
 
