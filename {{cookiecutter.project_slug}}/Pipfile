@@ -5,6 +5,11 @@ name = "pypi"
 
 [packages]
 pandas = "*"
+pandas-profiling = "*"
+ipywidgets = "*"
+matplotlib = "*"
+seaborn = "*"
+scipy = "*
 
 [dev-packages]
 notebook = "*"
