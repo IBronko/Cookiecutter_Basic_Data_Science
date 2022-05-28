@@ -18,5 +18,11 @@ Automate repetition away...
 3. Create virtual environment for your project and install requirements of template from included pipfile: 
 `$ pipenv install`
 
+## Virtual environment basics with pipenv
 
+1. Activate: `$ pipenv shell`
+
+2. Deactivate: `$ pipenv exit`
+
+3. Commands overview: 2. Deactivate: `$ pipenv -h`
 
