@@ -1,4 +1,4 @@
-# Cookiecutters 🍪
+# Cookiecutter 🍪
 
 Automate repetition away... 
 
@@ -10,22 +10,21 @@ Automate repetition away...
 
 ## Steps
 
-1. Navigate to desired folder on your machine and generate your project structure from GitHub project template: 
-`$ cookiecutter https://github.com/IBronko/Cookiecutters_Basic_Data_Science.git`
+1. Navigate to desired folder on your machine and generate your project structure from GitHub project template:<br> 
+`$ cookiecutter https://github.com/IBronko/Cookiecutter_Basic_Data_Science.git`
 
-To generate a project from a local cookiecutter template type and follow the displayed prompts:
-`$ cookiecutter .`
+  __OR__: To generate a project from a local cookiecutter template type: `$ cookiecutter .`
 
 2. Adjust Pipfile if necessary (include or exclude packages)
 
-3. Create virtual environment for your project and install requirements of template from included pipfile: 
+3. Create virtual environment for your project and install requirements of template from included pipfile:<br>
 `$ pipenv install`
 
-## Virtual environment basics with pipenv
+## Pipenv basics
 
-1. Activate: `$ pipenv shell`
+1. Activate VE: `$ pipenv shell`
 
-2. Deactivate: `$ pipenv exit`
+2. Deactivate VE: `$ pipenv exit`
 
-3. Commands overview: 2. Deactivate: `$ pipenv -h`
+3. Commands overview: `$ pipenv -h`
 
