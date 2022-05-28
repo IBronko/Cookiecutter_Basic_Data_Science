@@ -1,6 +1,7 @@
-# Cookiecutter 🍪
+# Cookiecutter 🍪 for a basic data science project
 
-Automate repetition away... 
+I was tired of manually seeting up a virtual environment and installing the same basic packages/libraries for each (little) project.
+Then I stumbled over this tool called "Cookiecutter" that helps me to automate repetition away... 
 
 ## Quick tutorial
 
@@ -8,9 +9,9 @@ Automate repetition away...
 
 ## Prerequisites
 
-- installation of [Python3](https://www.python.org) on your machine  
-- installation of [cookiecutter](https://cookiecutter.readthedocs.io/en/2.0.2/installation.html) on your machine
-- installation of [pipenv](https://docs.pipenv.org) on your machine (to create virtual environment and install dependencies within ve)
+- Installation of [Python 3](https://www.python.org) on your machine  
+- Installation of [cookiecutter](https://cookiecutter.readthedocs.io/en/2.0.2/installation.html) on your machine
+- Installation of [pipenv](https://docs.pipenv.org) on your machine (to create virtual environment and install dependencies within ve)
 
 ## Steps
 
