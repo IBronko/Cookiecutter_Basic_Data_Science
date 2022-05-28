@@ -3,7 +3,10 @@
 I was tired of manually seeting up a virtual environment and installing the same basic packages/libraries for each (little) project.
 Then I stumbled over this tool called "Cookiecutter" that helps me to automate repetition away...
 
-This template can be used in combination with pipenv to set everything up in minutes with basically 2-3 commands.
+This template can be used in combination with pipenv to set everything up in minutes with just a few commands.
+
+![terminal](https://user-images.githubusercontent.com/67829673/170830305-f1ad868e-2791-4f7b-943d-39c44141ef9b.png)
+
 The [pipfile](https://github.com/IBronko/Cookiecutter_Basic_Data_Science/blob/3a6f38ce671009175e7ac73a04905a863c5b8e99/%7B%7Bcookiecutter.project_slug%7D%7D/Pipfile) contains the dependencies and can be viewed and adjusted as necessary.
 
 ## Quick tutorial for Cookiecutter
